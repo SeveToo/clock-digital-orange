@@ -1,13 +1,13 @@
 <div align="center" id="top"> 
   
 <h1 align="center">Simple clock using JS</h1>
-  <a target="_blank" href="https://sevetoo.github.io/Clock-digital-orange">
+  <a target="_blank" href="https://sevetoo.github.io/clock-digital-orange">
   <img src="./preview.png" alt="arrays functions" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/Clock-digital-orange">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/clock-digital-orange">Demo</a>
 
 </div>
 
@@ -51,12 +51,12 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/Clock-digital-orange
+https://sevetoo.github.io/clock-digital-orange
 
 ## :checkered_flag: Starting
 
 download the project and open **index.html**
-or open in browser ( <a href="https://sevetoo.github.io/Clock-digital-orange" >click link</a> ) 
+or open in browser ( <a href="https://sevetoo.github.io/clock-digital-orange" >click link</a> ) 
 
 ## 😎 Made by
 
